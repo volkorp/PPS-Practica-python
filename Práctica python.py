@@ -14,7 +14,6 @@ while loops < 5:
   except:
     print('Debes insertar un número.')
 
-print('Entendido')
 # Cálculo menor
 minValue = 0
 firstLoop = 0

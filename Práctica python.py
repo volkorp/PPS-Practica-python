@@ -13,8 +13,9 @@ while loops < 5:
   except:
     print('Debes insertar un número.')
 
-# Cálculo menor
+# Cálculo menor y mayor
 minValue = 0
+maxValue = 0
 firstLoop = 0
 
 for inputs in entryList:
@@ -23,15 +24,6 @@ for inputs in entryList:
     firstLoop+=1
   if inputs < minValue:
     minValue = inputs
-
-# Cálculo mayor
-maxValue = 0
-firstLoop = 0
-
-for inputs in entryList:
-  if firstLoop == 0:
-    maxValue = inputs
-    firstLoop+=1
   if inputs > maxValue:
     maxValue = inputs
 

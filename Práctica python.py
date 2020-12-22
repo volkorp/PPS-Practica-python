@@ -3,7 +3,6 @@ loops = 0
 entryList = []
 userInput = 0
 primos = []
-nmax = 1000 # Número máximo de vueltas para calcular primos
 
 # Entrada de datos
 while loops < 5:

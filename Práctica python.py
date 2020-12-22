@@ -65,8 +65,8 @@ while idx > 0:
   factorial*=idx
   idx-=1
 
-print('Mayor age: ' + str(maxValue))
-print('Menor age: ' + str(minValue))
+print('Mayor edad: ' + str(maxValue))
+print('Menor edad: ' + str(minValue))
 print('Cantidad de edades pares: ' + str(pairCount))
 print('Cantidad de edades impares: ' + str(unevenCount))
 print('Lista de primos: ' + str(primos))

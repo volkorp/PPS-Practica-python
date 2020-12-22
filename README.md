@@ -1,6 +1,8 @@
 # Practica-python
 
-PPS: Primera práctica de python.
+Especialización en ciberseguridad.
+
+Puesta en producción segura: Primera práctica de python.
 
 Solicita 5 edades y calcula:
 
